@@ -1,5 +1,9 @@
 # Advanced_XSS_LAB
-As it says.
+This is an advanced XSS lab using various interfaces and an example of what all of this can do.
+
+https://deadmanxxxii.substack.com/p/advanced-xss-threats-the-risk-of
+
+This got a recommendation so I built a lab to support my paper.
 
 # Advanced XSS & Malware Lab
 
